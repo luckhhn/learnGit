@@ -4,3 +4,4 @@ add author
 test rebase
 rebase is bad
 test rebase
+rebase is good
