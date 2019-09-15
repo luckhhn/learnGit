@@ -2,4 +2,4 @@ print("hello world")
 add commit
 add author
 test rebase
-rebase is good
+rebase is bad
