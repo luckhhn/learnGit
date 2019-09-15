@@ -3,3 +3,4 @@ add commit
 add author
 test rebase
 rebase is bad
+test rebase
