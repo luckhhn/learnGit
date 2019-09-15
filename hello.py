@@ -1,2 +1,1 @@
-print("hello world"
-add commit)
+print("hello world")
